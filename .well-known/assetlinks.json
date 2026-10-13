@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "cl.duxlingo.app",
+        "sha256_cert_fingerprints": ["7F:CE:E6:35:A1:F7:E9:6D:5C:57:69:3D:D6:DB:B8:30:C5:31:FB:84:67:2D:C7:63:83:A1:3E:4A:4D:CA:9B:C1"]
+      }
+    }]
